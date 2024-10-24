@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2024 Yuhei Mitsuno s23c1137tw@s.chibakoudai.jp
 # SPDX-License-Identifier: BSD-3-Clause
+
 import sys
 
 
