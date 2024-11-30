@@ -36,7 +36,7 @@ $ chmod +x binary
 ```
 ## 使用方法
 ```
-'echo <数字> | ./binary'
+echo <数字> | ./binary
 ```
 ## 実行例
 
