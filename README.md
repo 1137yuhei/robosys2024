@@ -1,6 +1,8 @@
 # binaryコマンド
 ロボットシステム学授業用
 
+[![test](https://github.com/1137yuhei/robosys2024/actions/workflows/test.yml/badge.svg)](https://github.com/1137yuhei/robosys2024/actions/workflows/test.yml)
+
 ## 概要
 
 - 標準入力から読み込んだ数字の二進数を出力する。
