@@ -48,7 +48,7 @@ $ echo 10 | ./binary
 ```
 - 実行例１
 ```
-$ echo 10 | ./binary
+$ echo -10 | ./binary
 ```
 - 実行結果
 ```
