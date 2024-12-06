@@ -19,23 +19,27 @@
 
 
 ## 使用方法
-
+```
 - リポジトリをクローン
+```
 'git clone https://github.com/1137yuhei/robosys2024.git'
 
 - ディレクトリに移動
+```
 'cd robosys2024'
-
+```
 - 'binary'スクリプトを実行権限を与える
+```
 'chmod +x binary'
-
+```
 - 'robosys2024'のディレクトリでコマンドを実行する
 
 ## 実行方法
+```
 'echo <数字> | ./binary'
 ```
 ## 実行例
-
+```
 - 実行例１
 ```
 $ echo 10 | ./binary
