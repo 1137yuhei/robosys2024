@@ -11,32 +11,28 @@
 ## 必要なソフトウェア
 
 - Python
-- テスト済みバージョン：3.7~3.11
+  - テスト済みバージョン：3.7~3.11
 
 ## テスト環境
 
 - ubuntu 22.04 LTS
 
 
-## インストール方法
-
-- 以下の手順でプロジェクトをローカル環境にインストールしてください。
+## 使用方法
 
 - リポジトリをクローン
-```
-$ git clone https://github.com/1137yuhei/robosys2024.git
-```
+'git clone https://github.com/1137yuhei/robosys2024.git'
+
 - ディレクトリに移動
-```
-$ cd robosys2024
-```
+'cd robosys2024'
+
 - 'binary'スクリプトを実行権限を与える
-```
-$ chmod +x binary
-```
-## 使用方法
-```
-echo <数字> | ./binary
+'chmod +x binary'
+
+- 'robosys2024'のディレクトリでコマンドを実行する
+
+## 実行方法
+'echo <数字> | ./binary'
 ```
 ## 実行例
 
@@ -44,15 +40,15 @@ echo <数字> | ./binary
 ```
 $ echo 10 | ./binary
 ```
-- 実行結果
+- 実行結果１
 ```
 0b1010
 ```
-- 実行例１
+- 実行例２
 ```
 $ echo -10 | ./binary
 ```
-- 実行結果
+- 実行結果２
 ```
 -0b1010
 ```
